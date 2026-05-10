@@ -1,0 +1,11 @@
+header{
+    text-align: center;
+    background-image: linear-gradient(purple,rgb(175, 15, 255),rgb(93, 0, 255),rgb(0, 132, 255)) ;
+}
+.adin{
+    height: 300px;
+    width: 400px;
+}
+body{
+    font-family: sans-serif;
+}
