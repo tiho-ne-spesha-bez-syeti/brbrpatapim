@@ -9,3 +9,9 @@ header{
 body{
     font-family: sans-serif;
 }
+.dva{
+    height:800px ; width: 950px;
+}
+main{
+    background-image: linear-gradient(rgb(0, 132, 255),rgb(93, 0, 255),rgb(175, 15, 255),purple);
+}
