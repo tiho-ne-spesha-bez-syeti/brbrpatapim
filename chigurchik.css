@@ -1,6 +1,6 @@
 header{
     text-align: center;
-    background-image: linear-gradient(purple,rgb(175, 15, 255),rgb(93, 0, 255),rgb(0, 132, 255)) ;
+    background-image: linear-gradient(purple,rgb(175, 15, 255),rgb(116, 61, 210),rgb(93, 0, 255),rgb(9, 76, 121),rgb(0, 132, 255)) ;
 }
 .adin{
     height: 300px;
@@ -14,4 +14,15 @@ body{
 }
 main{
     background-image: linear-gradient(rgb(0, 132, 255),rgb(93, 0, 255),rgb(175, 15, 255),purple);
+    text-align: center;
+}
+footer{
+    background-color: rgb(34, 34, 34);
+    text-align: center;
+}
+.tri{
+    height: 300px; width: 300px;
+}
+p{
+    font-size: xx-large;
 }
